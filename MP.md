@@ -25,4 +25,4 @@ My team includes: Ty, Hayden, Zoey, Brianna, Marty, Adam, Maxima, and me, Vic.
 I have just been informed we will now be doing a quest line of 200 quests +. Enjoy!!!
 
 And this is a spoiler! 
-> There will be dragon riding, horse riding, and a few ship rides I might just add a house editor/builder.
+> There will be dragon riding, horse riding, and a few ship rides. I might just add a house editor/builder.
