@@ -20,7 +20,7 @@ Email me more ideas for future DLC (downloadable content).
 
 [Email me!](mailto:commentaries100@gmail.com) You can email future stuff you want in DLCs.
 	
-My team includes: Ty, Hayden, Zoey, Brianna, Marty, Adam, Maxima, and me, Vic.
+My team includes: attack791, HayHayswag, ZOeBRo, cookie_159, coolguyadam, Maxima, and me well I have like 5 handles so  維也納國際中心依蘭 (Vic Sansing) works .
 	
 I have just been informed we will now be doing a quest line of 200 quests +. Enjoy!!!
 
