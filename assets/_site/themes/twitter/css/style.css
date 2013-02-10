@@ -2,10 +2,6 @@
 html, body {
   background-color: #5f04b4;
 }
-img {
-  margin: 1em;
-  float: right;
-}
 .navbar {
   margin-bottom: 0;
 }

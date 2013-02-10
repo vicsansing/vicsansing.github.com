@@ -7,6 +7,8 @@ tagline: from Vic and crew
 
 Welcome to my home page! Here you will find...
 
+![Mumfred](http://farm9.staticflickr.com/8245/8463266030_35d330e35a.jpg "Mumfred")
+
 ## My blog
 
 with all of my recent posts:
