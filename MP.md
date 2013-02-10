@@ -18,7 +18,7 @@ You were in a fire in your farmhouse. Then suddenly you see a man. He drags you.
 
 Email me more ideas for future DLC (downloadable content).
 
-<a href="mailto:commentaries100@gmail.com"> Email me!</a> You can email future stuff you want in DLCs.
+[Email me!](mailto:commentaries100@gmail.com) You can email future stuff you want in DLCs.
 	
 My team includes: Ty, Hayden, Zoey, Brianna, Marty, Adam, Maxima, and me, Vic.
 	
