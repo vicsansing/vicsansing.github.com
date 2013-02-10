@@ -19,7 +19,7 @@ with all of my recent posts:
     
 ## My gaming company
 
-I am starting a gaming company. We are designing video games, card games, etc. My friends and I have decided to call it "Jungle Games."
+I am starting a gaming company. We are designing video games, card games, etc. My friends and I have decided to call it "Jungle Games." Our first game will be [Midnight's Protector](MP.html)
 
 
 ## To-do

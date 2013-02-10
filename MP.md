@@ -14,13 +14,15 @@ I can reveal most of the architecture, so let's get into it. There will be Aband
 
 ### Main plot. 
 
-You were in a fire in your farmhouse. Then suddenly you see a man. He drags you. You wake up in a new place and then they come out. Email me more ideas for future DLC.
+You were in a fire in your farmhouse. Then suddenly you see a man. He drags you. You wake up in a new place and then ***they*** come out. 
 
-<a href="mailto:commentaries100@gmail.com"> Email me!</a> You can email future stuff you want in DLCs (downloadable content).
+Email me more ideas for future DLC (downloadable content).
+
+<a href="mailto:commentaries100@gmail.com"> Email me!</a> You can email future stuff you want in DLCs.
 	
 My team includes: Ty, Hayden, Zoey, Brianna, Marty, Adam, Maxima, and me, Vic.
 	
 I have just been informed we will now be doing a quest line of 200 quests +. Enjoy!!!
 
 And this is a spoiler! 
->! There will be dragon riding, horse riding, and a few ship rides I might just add a house editor/builder.
+> There will be dragon riding, horse riding, and a few ship rides I might just add a house editor/builder.
