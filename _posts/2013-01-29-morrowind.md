@@ -3,7 +3,7 @@ layout: post
 title: "Morrowind."
 description: "review"
 category: Reviews
-tags: [morrowwind]
+tags: [morrowind]
 ---
 {% include JB/setup %}
 
