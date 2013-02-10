@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vic Sansing
-tagline: and crew
+title: Welcome!
+tagline: from Vic and crew
 ---
 {% include JB/setup %}
 
