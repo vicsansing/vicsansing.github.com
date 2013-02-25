@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "space station\!"
+title: "space station!"
 description: ""
 category: 
 tags: []
