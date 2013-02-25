@@ -27,4 +27,4 @@ $ git pull
 
 ###to check what you've published:
 
-go to [http://vicsansing.github.com]http://vicsansing.github.com
+go to http://vicsansing.github.com
